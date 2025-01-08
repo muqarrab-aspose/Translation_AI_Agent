@@ -1,0 +1,6 @@
+translation_task:
+  description: >
+    {text}
+  expected_output: >
+    output only translated text of given text.
+  agent: translator
